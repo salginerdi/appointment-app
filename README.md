@@ -1,5 +1,7 @@
 # Randevu Planlayıcı
 
+incelemek için: https://main--erdisalgin-appointment-app.netlify.app/
+
 Bu proje, Angular ile geliştirilmiş bir randevu planlama uygulamasıdır. Uygulama, kullanıcıların randevu oluşturmasına, görüntülemesine ve silmesine olanak tanır. Randevular, tarayıcı oturumları arasında kalıcılık sağlamak için `localStorage` kullanılarak saklanır.
 
 ## Özellikler
@@ -78,6 +80,8 @@ export interface Appointment {
 }
 -------------------------------------------------------------------------------------------------------
 # Appointment Scheduler
+
+to preview: https://main--erdisalgin-appointment-app.netlify.app/
 
 This project is an appointment scheduling application built with Angular. The application allows users to create, view, and delete appointments. Appointments are stored locally using `localStorage`, ensuring persistence across browser sessions.
 
